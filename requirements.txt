@@ -1,4 +1,5 @@
 streamlit
-
-#local package 
--e .
+pandas
+numpy
+scikit-learn
+requests
