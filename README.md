@@ -1,6 +1,3 @@
+Système de recommandation de films 🎬
 
-Systéme de recommendation
-#LIST_OF_REQUIREMENTS = ["numpy", "pandas", "scikit-learn", "matplotlib", "seaborn"]
-
-# Systeme_de_recommendation
-
+Projet Streamlit utilisant du machine learning.
