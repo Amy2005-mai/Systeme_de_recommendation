@@ -1,0 +1,9 @@
+# fichiers lourds de ML
+artifacts/similarity.pkl
+env/
+
+# autres ignorés
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+scr.egg-info/
